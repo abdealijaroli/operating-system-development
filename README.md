@@ -9,4 +9,4 @@ computer. Furthermore, computer organization and structure are briefly mentioned
 labelled. Finally, the components of the system including the structure of the base of the system,
 and the more advanced topics are expressed and detailed. 
 
-Project Teammates - Shresth Tiwary, Ananya Singh, Rohit Menon.
+Contributors - Shresth Tiwary, Ananya Singh, Rohit Menon.
